@@ -72,9 +72,7 @@ const Signup = () => {
               required
             />
           </div>
-          <div>
-            kaleem bhaiyaaa
-          </div>
+         
 
           <button
             type="submit"
