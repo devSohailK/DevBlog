@@ -25,7 +25,7 @@ const Header = () => {
             <div className='fixed top-0 left-0 w-full z-50 flex justify-between items-center bg-gray-800 text-white p-4 shadow-md'>
                 <div>
                     <Link to='/' className='text-2xl font-bold hover:text-lime-600'>
-                        Dev blog 
+                        Testing CI/CD
                     </Link>
 
                     <button className='ml-10' onClick={toggleTheme}>
